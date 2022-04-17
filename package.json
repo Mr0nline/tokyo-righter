@@ -1,13 +1,35 @@
 {
     "name": "tokyo-right",
-    "displayName": "Tokyo Right",
-    "description": "Bordered variant of Tokyo Night",
+    "displayName": "Tokyo Right Theme",
+    "description": "A bordered variant of Tokyo Night",
+    "publisher": "DanSarich",
     "version": "0.0.1",
+    "maintainers": [
+        "Dan Sarich <dsarich@gmail.com>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dsarich33/tokyo-right.git"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#3c4557",
+        "theme": "dark"
+    },
+    "keywords": [
+        "tokyo night",
+        "tokyo",
+        "night",
+        "theme",
+        "dark theme",
+        "dark",
+        "color-theme"
     ],
     "contributes": {
         "themes": [
