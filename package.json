@@ -1,0 +1,21 @@
+{
+    "name": "tokyo-right",
+    "displayName": "Tokyo Right",
+    "description": "Bordered variant of Tokyo Night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tokyo Right",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tokyo Right-color-theme.json"
+            }
+        ]
+    }
+}
