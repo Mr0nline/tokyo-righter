@@ -35,13 +35,13 @@
     "scrollbar.shadow": "#00000099",
 
     "activityBar.foreground": "#dfdfdf",
-    "activityBar.background": "#2a2c2f",
+    "activityBar.background": "#181818",
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#3d59a1",
     "activityBar.border": "#00000099",
 
-    "sideBar.background": "#2a2c2f",
+    "sideBar.background": "#1e1e1e",
     "sideBar.foreground": "#cccccc",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#cccccc",
@@ -77,7 +77,7 @@
     "statusBarItem.remoteBackground": "#7aa2f7",
     "statusBarItem.remoteForeground": "#ffffff",
 
-    "titleBar.activeBackground": "#383a3d",
+    "titleBar.activeBackground": "#1e1e1e",
     "titleBar.activeForeground": "#b7b8bb",
     "titleBar.inactiveBackground": "#3c3c3c99",
     "titleBar.inactiveForeground": "#cccccc99",
