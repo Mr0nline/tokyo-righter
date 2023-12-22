@@ -1,15 +1,16 @@
 {
-    "name": "tokyo-right",
-    "displayName": "Tokyo Right Theme",
-    "description": "A bordered variant of Tokyo Night",
-    "publisher": "DanSarich",
+    "name": "tokyo-righter",
+    "displayName": "Tokyo Righter Theme",
+    "description": "Even darker variant of Tokyo Night forked from Tokyo Right Theme!",
+    "publisher": "Mr0nline",
     "version": "1.1.0",
     "maintainers": [
-        "Dan Sarich <dsarich@gmail.com>"
+        "Dan Sarich <dsarich@gmail.com>",
+        "Mr.Online <mronlinesworld@gmail.com>"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Dsarich33/tokyo-right.git"
+        "url": "https://github.com/Mr0nline/tokyo-righter.git"
     },
     "engines": {
         "vscode": "^1.66.0"
@@ -34,9 +35,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tokyo Right",
+                "label": "Tokyo Righter",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Tokyo Right-color-theme.json"
+                "path": "./themes/Tokyo Righter-color-theme.json"
             }
         ]
     }
