@@ -2,8 +2,8 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![Screenshot](https://raw.githubusercontent.com/Dsarich33/tokyo-right/master/screenshot.png)
-![Screenshot2](https://raw.githubusercontent.com/Dsarich33/tokyo-right/master/screenshot2.png)
+![Screenshot](https://raw.githubusercontent.com/Mr0nline/tokyo-righter/master/screenshot.png)
+![Screenshot2](https://raw.githubusercontent.com/Mr0nline/tokyo-righter/master/screenshot2.png)
 
 
 ## Team
