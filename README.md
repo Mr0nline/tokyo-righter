@@ -8,9 +8,6 @@
 
 ## Team
 
-[![Dan S.](https://avatars.githubusercontent.com/u/12992802?v=4&s=70)](https://github.com/Dsarich33) |
-:---: |
-[Dan S.](https://github.com/Dsarich33) |
-
-
-
+[![Dan S.](https://avatars.githubusercontent.com/u/12992802?v=4&s=70)](https://github.com/Dsarich33) | [![Mr.Online](https://avatars.githubusercontent.com/u/57582883?v=4&s=70)](https://github.com/Mr0nline)
+:---: | :---:
+[Dan S.](https://github.com/Dsarich33) | [Mr.Online](https://github.com/Mr0nline)
